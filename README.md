@@ -53,4 +53,3 @@ Siga estas etapas para instalar e executar o projeto:
 ## Imagem do projeto
 ![imagem do projeto](https://github.com/AntonioMortari/projetos-reactJS/assets/113060294/a055a00f-b290-46ec-990f-e2420b2dabb5)
 
-# SpotFlix
